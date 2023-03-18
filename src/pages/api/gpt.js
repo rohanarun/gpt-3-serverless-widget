@@ -9,7 +9,7 @@ export default (req, res) => {
 
 var headers = {
     'Content-Type': 'application/json',
-    'Authorization': 'Bearer OPENAI_KEY'
+    'Authorization': 'Bearer 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'
 };
 
 var json_input = {
