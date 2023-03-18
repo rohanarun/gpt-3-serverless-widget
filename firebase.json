@@ -13,6 +13,6 @@
   "functions": {
     "source": ".",
     "ignore": ["firebase.json", "node_modules", "out"],
-    "runtime": "nodejs12"
+    "runtime": "nodejs18"
   }
 }
