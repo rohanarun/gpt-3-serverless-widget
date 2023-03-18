@@ -9,7 +9,7 @@ export default (req, res) => {
 
 var headers = {
     'Content-Type': 'application/json',
-    'Authorization': 'Bearer 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'
+    'Authorization': 'Bearer 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'
 };
 
 var json_input = {
